@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/Final;C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/22;C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/21;C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/15;C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/14;C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/20;C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/19;C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/18;C:/Users/hugow/Documents/SIA folder/FinalProjectBuilds/17;C:/Users/hugow/Downloads/YueShengWang_FinalProjectUpdate/WebGL Builds/1\"}"
+            }
+        ]
+    }
+}
